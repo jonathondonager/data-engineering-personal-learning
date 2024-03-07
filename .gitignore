@@ -1,0 +1,17 @@
+*.json
+.terraformrc
+terraform.rc
+*.crc
+*.parquet
+*.csv
+*.venv/*
+*.db
+mage/mage-data/
+mage/magic-zoomcamp/
+module_1_docker_sql/ny_taxi_postgres_data/
+module_2_mage/mage-data/
+module_2_mage/magic-zoomcamp/
+module_3_bq/mage-data/
+module_3_bq/mage-zoomcamp/
+module_3_bq/magic-zoomcamp/
+module_5_batch/data/
